@@ -44,7 +44,6 @@ projects/
 │
 ├── stopwatch/
 │   ├── index.html
-│   ├── style.css
 │   └── script.js
 │
 └── random-quote-generator/
